@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+    color: red;
+}
+h1{
+    background-color: brown;
+    color: whitesmoke;
+}
+body{
+    background-color: aquamarine;
+}
+h2{
+    color:navy;
+}
+hr{
+    height: 5px;
+    background-color:chartreuse ;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+.pon15{
+    color: black;
+}

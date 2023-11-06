@@ -1,0 +1,22 @@
+form{
+    background-color: silver;
+    font-family: cursive;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 15px;
+    text-align: center;
+}
+input{
+    width: 250px;
+}
+.pon1{
+    width: 150px;
+    height: 25px;
+    background-color: yellow;
+    font-family: cursive;
+    border-radius: 15px;
+}
+.pon1:hover{
+    background-color: red;
+    color: white;
+}
